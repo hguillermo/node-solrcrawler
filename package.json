@@ -1,0 +1,22 @@
+{
+  "name": "node-solrcrawler",
+  "version": "0.0.3",
+  "description": "A solr crawler",
+  "keywords": [],
+  "author": "Harry Guillermo <hguillermo@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hguillermo/node-solrcrawler.git"
+  },
+  "dependencies": {
+    "colors": "^0.6.2",
+    "moment": "^2.8.3",
+    "optimist": "^0.6.1",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
